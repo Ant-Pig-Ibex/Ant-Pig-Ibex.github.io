@@ -1,3 +1,7 @@
+---
+title: Blogging Like a Hacker
+---
+
 # Mario Mario
 
 ## Work Experience
