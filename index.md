@@ -1,5 +1,5 @@
 ---
-Title: API index
+title: API index
 ---
 
 # Main Page
