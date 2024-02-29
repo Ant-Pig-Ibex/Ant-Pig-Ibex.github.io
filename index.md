@@ -1,3 +1,7 @@
+---
+Title: API index
+---
+
 # Main Page
 
 This is the index.md file.
