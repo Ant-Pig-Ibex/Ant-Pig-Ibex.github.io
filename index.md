@@ -1,5 +1,6 @@
 ---
 title: API index
+remote_theme: pages-themes/hacker@v0.2.0
 ---
 
 # Main Page
