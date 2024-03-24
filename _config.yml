@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: "/about" 
+    values:
+      layout: "jekyll-theme-hacker"
